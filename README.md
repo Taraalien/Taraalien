@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tara</h1>
 <h3 align="center">A passionate Back end developer</h3>
 
-- 🔭 I’m currently working on **Network Packer Sniffer**
-
-- 🌱 I’m currently learning **hibernate,j2EE and spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taraalien](https://github.com/Taraalien)
 
